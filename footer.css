@@ -1,0 +1,30 @@
+.footer{background:#F6FAFF; padding-bottom:40px; border-bottom:8px solid #50DBB2; }
+.footer .footerLogo{margin:-75px auto 0px; width:170px; height:170px; border-radius:100%; background:#F6FAFF; display:flex; }
+.footer .footerLogo{justify-content:center; align-items:flex-start; padding-top:10px;}
+.footer .foot h4{font-family:'Lato'; font-style:normal; font-weight:700; font-size:21px; line-height:32px; text-align:left; text-transform:capitalize; }
+.footer .foot h4{color:#2A2B2A; position:relative; display:inline-block; padding-bottom:15px; margin-bottom:20px;}
+.footer .foot h4:before{position:absolute; left:0; bottom:0px; content:""; border-bottom:2px solid #3DA889; width:100%;}
+.footer .foot h4:after{position:absolute; left:0; bottom:-2.5px; content:""; border-bottom:8px solid #50DBB2; width:20px;}
+
+.footer .aboutUs{padding-right:60px ;}
+.footer .aboutUs p{color:#6c6c6c; font-family:'Lato';font-style:normal;font-weight:400;font-size:16px;line-height:28px;letter-spacing:0.005em;}
+
+.footer .fLinks ul{padding-left:20px;}
+.footer .fLinks ul li{list-style:none; line-height:28px; position:relative; text-decoration: none;}
+.footer .fLinks ul li:before{position:absolute; left:-20px; width:6px; height:6px; border-radius:20px; background:#6c6c6c; content:""; top:11px; text-decoration: none;}
+.footer .fLinks ul li a{color:#6c6c6c; text-decoration: none;}
+
+.footer .social {display: flex; justify-content: space-between;
+flex-direction: column; }
+.footer .social ul li {list-style:none; display:inline-block; margin-right:20px;}
+.aa
+{
+    width:100%;
+    height: 500px;
+}
+.social-link
+{
+    display: flex;
+    gap: 20px;
+
+}
